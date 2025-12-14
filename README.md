@@ -2,14 +2,12 @@
 Bricks Beater 是一个基于 Windows 的打砖块小游戏，使用 EasyX 图形库与 WinMM MCI 接口播放音效。
 
 ## 目录结构
-- `include/` 头文件
-- `src/` 源文件
 - `res/` 游戏资源（关卡、图片、音乐）
 - `screenshot/` 游戏截图
 - `BricksBeater.sln` 解决方案文件
 - `BricksBeater.vcxproj` 工程文件
 - `BricksBeater.ini` 配置文件
-- 其他文件
+- 其他文件(`.h`头文件 `.cpp`源文件)
 
 ## 运行环境
 - Windows 10/11
