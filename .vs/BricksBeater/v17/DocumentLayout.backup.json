@@ -1,0 +1,171 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\26506\\OneDrive\\\u684C\u9762\\Projects\\\u6253\u7816\u5757\\BricksBeater\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E740A15A-5138-49B2-9454-0B6778FE4AA0}|BricksBeater.vcxproj|C:\\Users\\26506\\OneDrive\\\u684C\u9762\\Projects\\\u6253\u7816\u5757\\BricksBeater\\Sound.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E740A15A-5138-49B2-9454-0B6778FE4AA0}|BricksBeater.vcxproj|solutionrelative:Sound.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E740A15A-5138-49B2-9454-0B6778FE4AA0}|BricksBeater.vcxproj|C:\\Users\\26506\\OneDrive\\\u684C\u9762\\Projects\\\u6253\u7816\u5757\\BricksBeater\\Paint.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E740A15A-5138-49B2-9454-0B6778FE4AA0}|BricksBeater.vcxproj|solutionrelative:Paint.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E740A15A-5138-49B2-9454-0B6778FE4AA0}|BricksBeater.vcxproj|C:\\Users\\26506\\OneDrive\\\u684C\u9762\\Projects\\\u6253\u7816\u5757\\BricksBeater\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E740A15A-5138-49B2-9454-0B6778FE4AA0}|BricksBeater.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E740A15A-5138-49B2-9454-0B6778FE4AA0}|BricksBeater.vcxproj|C:\\Users\\26506\\OneDrive\\\u684C\u9762\\Projects\\\u6253\u7816\u5757\\BricksBeater\\Game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E740A15A-5138-49B2-9454-0B6778FE4AA0}|BricksBeater.vcxproj|solutionrelative:Game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E740A15A-5138-49B2-9454-0B6778FE4AA0}|BricksBeater.vcxproj|C:\\Users\\26506\\OneDrive\\\u684C\u9762\\Projects\\\u6253\u7816\u5757\\BricksBeater\\Paint.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E740A15A-5138-49B2-9454-0B6778FE4AA0}|BricksBeater.vcxproj|solutionrelative:Paint.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E740A15A-5138-49B2-9454-0B6778FE4AA0}|BricksBeater.vcxproj|C:\\Users\\26506\\OneDrive\\\u684C\u9762\\Projects\\\u6253\u7816\u5757\\BricksBeater\\Game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E740A15A-5138-49B2-9454-0B6778FE4AA0}|BricksBeater.vcxproj|solutionrelative:Game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E740A15A-5138-49B2-9454-0B6778FE4AA0}|BricksBeater.vcxproj|C:\\Users\\26506\\OneDrive\\\u684C\u9762\\Projects\\\u6253\u7816\u5757\\BricksBeater\\ini.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E740A15A-5138-49B2-9454-0B6778FE4AA0}|BricksBeater.vcxproj|solutionrelative:ini.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E740A15A-5138-49B2-9454-0B6778FE4AA0}|BricksBeater.vcxproj|C:\\Users\\26506\\OneDrive\\\u684C\u9762\\Projects\\\u6253\u7816\u5757\\BricksBeater\\main.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E740A15A-5138-49B2-9454-0B6778FE4AA0}|BricksBeater.vcxproj|solutionrelative:main.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E740A15A-5138-49B2-9454-0B6778FE4AA0}|BricksBeater.vcxproj|C:\\Users\\26506\\OneDrive\\\u684C\u9762\\Projects\\\u6253\u7816\u5757\\BricksBeater\\Sound.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E740A15A-5138-49B2-9454-0B6778FE4AA0}|BricksBeater.vcxproj|solutionrelative:Sound.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Paint.h",
+              "DocumentMoniker": "C:\\Users\\26506\\OneDrive\\\u684C\u9762\\Projects\\\u6253\u7816\u5757\\BricksBeater\\Paint.h",
+              "RelativeDocumentMoniker": "Paint.h",
+              "ToolTip": "C:\\Users\\26506\\OneDrive\\\u684C\u9762\\Projects\\\u6253\u7816\u5757\\BricksBeater\\Paint.h",
+              "RelativeToolTip": "Paint.h",
+              "ViewState": "AgIAAH4AAAAAAAAAAAAAAG0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-06-06T17:33:51.645Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Sound.cpp",
+              "DocumentMoniker": "C:\\Users\\26506\\OneDrive\\\u684C\u9762\\Projects\\\u6253\u7816\u5757\\BricksBeater\\Sound.cpp",
+              "RelativeDocumentMoniker": "Sound.cpp",
+              "ToolTip": "C:\\Users\\26506\\OneDrive\\\u684C\u9762\\Projects\\\u6253\u7816\u5757\\BricksBeater\\Sound.cpp",
+              "RelativeToolTip": "Sound.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-07T17:39:36.079Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\26506\\OneDrive\\\u684C\u9762\\Projects\\\u6253\u7816\u5757\\BricksBeater\\main.cpp",
+              "RelativeDocumentMoniker": "main.cpp",
+              "ToolTip": "C:\\Users\\26506\\OneDrive\\\u684C\u9762\\Projects\\\u6253\u7816\u5757\\BricksBeater\\main.cpp",
+              "RelativeToolTip": "main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-07T17:39:35.039Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Game.cpp",
+              "DocumentMoniker": "C:\\Users\\26506\\OneDrive\\\u684C\u9762\\Projects\\\u6253\u7816\u5757\\BricksBeater\\Game.cpp",
+              "RelativeDocumentMoniker": "Game.cpp",
+              "ToolTip": "C:\\Users\\26506\\OneDrive\\\u684C\u9762\\Projects\\\u6253\u7816\u5757\\BricksBeater\\Game.cpp",
+              "RelativeToolTip": "Game.cpp",
+              "ViewState": "AgIAAFQBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-07T17:39:34.503Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Sound.h",
+              "DocumentMoniker": "C:\\Users\\26506\\OneDrive\\\u684C\u9762\\Projects\\\u6253\u7816\u5757\\BricksBeater\\Sound.h",
+              "RelativeDocumentMoniker": "Sound.h",
+              "ToolTip": "C:\\Users\\26506\\OneDrive\\\u684C\u9762\\Projects\\\u6253\u7816\u5757\\BricksBeater\\Sound.h",
+              "RelativeToolTip": "Sound.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-06-07T17:39:33.847Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "main.h",
+              "DocumentMoniker": "C:\\Users\\26506\\OneDrive\\\u684C\u9762\\Projects\\\u6253\u7816\u5757\\BricksBeater\\main.h",
+              "RelativeDocumentMoniker": "main.h",
+              "ToolTip": "C:\\Users\\26506\\OneDrive\\\u684C\u9762\\Projects\\\u6253\u7816\u5757\\BricksBeater\\main.h",
+              "RelativeToolTip": "main.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-06-07T17:39:32.54Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ini.hpp",
+              "DocumentMoniker": "C:\\Users\\26506\\OneDrive\\\u684C\u9762\\Projects\\\u6253\u7816\u5757\\BricksBeater\\ini.hpp",
+              "RelativeDocumentMoniker": "ini.hpp",
+              "ToolTip": "C:\\Users\\26506\\OneDrive\\\u684C\u9762\\Projects\\\u6253\u7816\u5757\\BricksBeater\\ini.hpp",
+              "RelativeToolTip": "ini.hpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-06-07T17:39:31.941Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Game.h",
+              "DocumentMoniker": "C:\\Users\\26506\\OneDrive\\\u684C\u9762\\Projects\\\u6253\u7816\u5757\\BricksBeater\\Game.h",
+              "RelativeDocumentMoniker": "Game.h",
+              "ToolTip": "C:\\Users\\26506\\OneDrive\\\u684C\u9762\\Projects\\\u6253\u7816\u5757\\BricksBeater\\Game.h",
+              "RelativeToolTip": "Game.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-06-07T17:39:30.973Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Paint.cpp",
+              "DocumentMoniker": "C:\\Users\\26506\\OneDrive\\\u684C\u9762\\Projects\\\u6253\u7816\u5757\\BricksBeater\\Paint.cpp",
+              "RelativeDocumentMoniker": "Paint.cpp",
+              "ToolTip": "C:\\Users\\26506\\OneDrive\\\u684C\u9762\\Projects\\\u6253\u7816\u5757\\BricksBeater\\Paint.cpp",
+              "RelativeToolTip": "Paint.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-07T15:54:57.811Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
